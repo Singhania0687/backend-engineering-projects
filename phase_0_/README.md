@@ -1,5 +1,3 @@
----
-
 # 🧠 CPU vs Memory — Node.js Internals Notes
 
 **Understanding the difference between computation (CPU) and memory usage (RAM) in Node.js**
