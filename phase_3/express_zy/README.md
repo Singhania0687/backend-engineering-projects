@@ -1,0 +1,2 @@
+# HTTP framework 
+This directory contains an HTTP framework built on top of the `http` module of nodejs (similar to express). It provides a simple and efficient way to create HTTP servers and handle HTTP requests and responses.
